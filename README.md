@@ -3,9 +3,10 @@
 Setup
 
 1. Clone repo into deployment folder of your browser. (htdocs)
-2. Import mybugtracker.sql database in phpmyAdmin.
-3. Enter database user and database password in database.php file.
-4. Enter localhost/MyBugTracker/index.php in browser.
+2. Create mybugtracker database in phpmyadmin.
+3. Import mybugtracker.sql into mybugtracker database.
+4. Enter database user and database password in database.php file.
+5. Enter localhost/MyBugTracker/index.php in browser.
 
 Using App
 
